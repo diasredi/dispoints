@@ -24,3 +24,6 @@ The goal is to iterate each point and choose it if it augments the dispersion by
 2) Iterate through all the points
 3) If a point augments the dispersion compared to the nearest selected point choose it instead
 4) Return the selected points
+
+
+Copyright (c) 2024 Télécom SudParis, developped by Said Ider and Maryline Laurent
